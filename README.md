@@ -1,8 +1,8 @@
 ## ME220-Term-Project
 ### Sophomore year project. 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/42528b15-ece5-45b5-a60b-71cb3e9504b2" width="400" />
-  <img src="https://github.com/user-attachments/assets/986fe32d-6da0-412f-923c-4a15b51cd5f8" width="533" /> 
+  <img src="https://github.com/user-attachments/assets/42528b15-ece5-45b5-a60b-71cb3e9504b2" width="300" />
+  <img src="https://github.com/user-attachments/assets/986fe32d-6da0-412f-923c-4a15b51cd5f8" width="401" /> 
 </p>
 <p align="center">The team and robot</p>
 This repository documents the term project for ME220: Introduction to Mechatronics, a course offered in Fall 2022 at Middle East Technical University (METU). The project involved designing and building a robot capable of knocking over water bottles arranged randomly in a circular pattern. The robot was required to knock the bottles in a specific order provided by the instructor.
