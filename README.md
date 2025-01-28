@@ -17,8 +17,6 @@ The Python script running on the Raspberry Pi Pico implements the following logi
     - Release one ball using servo motor
     - Throw away the ball using DC motor.
 
-Refer to video to see how it behaves. 
- 
-
-
+Watch the video below to see how it behaves: 
+https://github.com/user-attachments/assets/555451b9-842f-4e97-ac48-dee609ca0776
 
