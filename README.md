@@ -18,5 +18,7 @@ The Python script running on the Raspberry Pi Pico implements the following logi
     - Throw away the ball using DC motor.
 
 Watch the video below to see how it behaves: 
-https://github.com/user-attachments/assets/555451b9-842f-4e97-ac48-dee609ca0776
+
+https://github.com/user-attachments/assets/13ac98d8-1b2a-4084-8208-5e3614e42f30
+
 
